@@ -1,0 +1,43 @@
+.container-btn {
+  background-color: #ecbac4;
+  width: 454px;
+  height: 62px;
+  border-radius: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 17px;
+  margin: 37px;
+}
+.btn-menos {
+  width: 33px;
+  height: 33px;
+  border-radius: 50px;
+  color: #ffffff;
+  background-color: #ff6699;
+  border: none;
+  font-size: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn-mas {
+  width: 33px;
+  height: 33px;
+  border-radius: 50px;
+  color: #ffffff;
+  background-color: #ff6699;
+  border: none;
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.count {
+  font-family: SF Pro Display;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: center;
+}

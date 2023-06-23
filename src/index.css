@@ -1,0 +1,10 @@
+:root {
+  font-family: "SF Pro Display", sans-serif;
+  color: #111111;
+  background-color: #ffffff;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

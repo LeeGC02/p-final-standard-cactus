@@ -1,0 +1,38 @@
+.container-card-info {
+  height: 295px;
+  width: 530px;
+  background-color: #ffffff;
+  position: relative;
+  left: 0;
+  bottom: 0;
+}
+.review {
+  color: #696969;
+  font-weight: 400px;
+  font-size: 19px;
+}
+.star-review {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.p {
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 34px;
+  color: #696969;
+}
+.title-price {
+  display: flex;
+  gap: 70px;
+}
+.title {
+  font-weight: 600;
+  line-height: 34px;
+  font-size: 28px;
+}
+.price {
+  font-size: 38px;
+  font-weight: 400;
+  line-height: 46px;
+}
